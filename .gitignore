@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Python
 __pycache__/
 *.pyc
@@ -16,3 +17,4 @@ htmlcov/
 # Sistema
 .DS_Store
 Thumbs.db
+=======
